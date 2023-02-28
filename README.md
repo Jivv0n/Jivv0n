@@ -8,6 +8,12 @@
 </p>
 
 <!--
+<p align="center">
+<img width="30%" src="https://user-images.githubusercontent.com/84502236/221876973-07ca4bd0-50b6-467f-a59c-b1baf625bb02.png"/>
+</p>
+-->
+
+<!--
 **Jivv0n/Jivv0n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
